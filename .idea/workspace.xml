@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26fff116-1b2c-4c4b-acb9-5ce37b534369" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build Declaracion corta.go">
+  <component name="RunManager" selected="Go Build.go build Var Type.go">
     <configuration name="go build Declaracion corta.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -54,8 +53,26 @@
       <filePath value="$PROJECT_DIR$/Introduccion/Hword.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Var Type.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Introduccion/Var Type.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Var.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Introduccion/Var.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Var Type.go" />
+        <item itemvalue="Go Build.go build Var.go" />
         <item itemvalue="Go Build.go build Declaracion corta.go" />
         <item itemvalue="Go Build.go build Hword.go" />
       </list>
