@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26fff116-1b2c-4c4b-acb9-5ce37b534369" name="Default Changelist" comment="">
+    <list default="true" id="26fff116-1b2c-4c4b-acb9-5ce37b534369" name="Default Changelist" comment="Var types">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduccion/Var Type.go" beforeDir="false" afterPath="$PROJECT_DIR$/Introduccion/Var Type.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build Var Type.go">
+  <component name="RunManager" selected="Go Build.go build fmt package.go">
     <configuration name="go build Declaracion corta.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -69,8 +70,17 @@
       <filePath value="$PROJECT_DIR$/Introduccion/Var.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build fmt package.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Introduccion/fmt package.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build fmt package.go" />
         <item itemvalue="Go Build.go build Var Type.go" />
         <item itemvalue="Go Build.go build Var.go" />
         <item itemvalue="Go Build.go build Declaracion corta.go" />
@@ -81,5 +91,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Var declaration" />
+    <MESSAGE value="Var types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Var types" />
   </component>
 </project>
